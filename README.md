@@ -176,3 +176,7 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ZixuanC
 - https://vitejs.dev/
 - https://vitest.dev/
 - https://vitest.dev/guide/coverage.html#coverage-providers
+
+---
+
+Used by: https://talents.taktsoft.com/
