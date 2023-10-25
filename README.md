@@ -161,12 +161,14 @@ You should disable all `jest` extensions (like Jest Runner).
 
 You can use the following VS Code extensions to run and debug your tests:
 
+```plain
 Name: Vitest
 Id: ZixuanChen.vitest-explorer
 Description: Run and debug Vitest test cases
 Version: 0.2.43
 Publisher: Zixuan Chen
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer
+```
 
 ## References
 
